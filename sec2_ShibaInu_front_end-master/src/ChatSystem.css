@@ -1,0 +1,49 @@
+#chatsystem-box {
+    margin-top: 30px;
+    height: 80vh;
+}
+#chatroom {
+    text-decoration: none;
+    color: black;
+}
+#chatroom:hover {
+    background-color: #d8d8d8;
+}
+#chatroom:checked {
+    background-color: #d8d8d8;
+}
+#sendmsg {
+    text-align: center;
+}
+#msgarea {
+    width: 100%;
+    height: 59vh;
+    bottom: 11vh;
+    overflow: scroll;
+    overflow-x: hidden;
+    align-items: center;
+}
+.selected-room {
+    background-color: #FFC655;
+    color: #254380;
+}
+.loading-chat {
+    float: center;
+    margin-top: 30vh;
+}
+::-webkit-scrollbar {
+    width: 10px;
+    background: #FFC655; 
+    border-radius: 5px;
+}
+::-webkit-scrollbar-thumb {
+    width: 10px;
+    background: #254380; 
+}
+.msg-allarea {
+    background-color: #fafafa;
+    height: 76%;
+}
+.sendmsg {
+    height: 13.10%;
+}

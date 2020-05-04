@@ -1,0 +1,32 @@
+#job-create-page {
+  margin: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 60%;
+  background-color: white;
+}
+
+#job-create-page .card-header {
+  background-color: #254380;
+  padding: 10px;
+  color: white;
+}
+
+#job-create-page .non-header {
+  padding: 20px;
+}
+
+#job-create-page .inside-box {
+  padding: 10px;
+}
+
+#job-create-page .row {
+  padding: auto;
+}
+#job-create-page .col {
+  padding: auto;
+}
+
+#job-create-page .button {
+  float: right;
+}

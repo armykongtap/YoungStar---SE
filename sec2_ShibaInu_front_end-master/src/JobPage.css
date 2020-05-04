@@ -1,0 +1,28 @@
+.job-page {
+  margin: auto;
+  margin-top: 10px;
+}
+
+.job-page .card-header {
+  background-color: #254380;
+  color: white;
+}
+
+.job-page header {
+  background-color: #254380;
+  padding: 10px;
+  color: white;
+}
+
+.job-page .card {
+  margin-bottom: 20px;
+}
+
+#job-detail .inside-body {
+  padding: 5px;
+}
+
+#job-detail .card-header {
+  font-size: 24px;
+  background-color: #254380;
+}
